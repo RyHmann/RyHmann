@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Ryan. I've worked for the past 10 years as an electrical engineer designing sports stadiums. That was super fun, but I've recently wanted to pivot and work in a field that matches my passion: Software Development! I've hung up my T-Square (well ok Revit and AutoCAD), aquired part-time work to keep me afloat, and I'm studying as much as I can in the meantime.
+
+## About me
+### Workd
+
+### Projects
 
 <!--
 **RyHmann/ryhmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
