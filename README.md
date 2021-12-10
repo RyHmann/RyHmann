@@ -8,7 +8,7 @@ It's been a scary, rewarding, fun, and stressful time. I love learning, so right
 
 ## About me
 ### Work
-* I'm currently self-teaching full-time, while holding down a part-time role (at a brewery :wink:) to keep me afloat.
+* I'm currently working as a junior developer, mainly in the backend of a c# application
 * I was fortunate to be selected as a section leader for Code in Place: Stanford's online offering of their Intro to Computer Sciecne course
 * I helped design and launch a small business website
 * I have 10 years of experience as an Electrical Engineer designing professional and collegiate sports stadia, arena, and ballparks. I left this position when I moved from Denver CO to Wellington NZ
